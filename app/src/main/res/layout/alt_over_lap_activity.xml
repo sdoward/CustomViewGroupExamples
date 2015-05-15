@@ -1,0 +1,48 @@
+<test.com.viewgroupexamples.views.OverLapView xmlns:android="http://schemas.android.com/apk/res/android"
+                                        xmlns:tools="http://schemas.android.com/tools"
+                                        xmlns:overlapView="http://schemas.android.com/apk/res-auto"
+                                        android:id="@+id/zLayout"
+                                        overlapView:animate="false"
+                                        overlapView:overlap="60"
+                                        android:layout_width="match_parent"
+                                        android:layout_height="match_parent"
+                                        tools:context=".MainActivity">
+
+    <View
+        android:elevation="20dp"
+        android:background="@android:color/holo_blue_bright"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+
+    <View
+        android:elevation="20dp"
+        android:background="@android:color/holo_red_dark"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+
+    <View
+        android:elevation="20dp"
+        android:background="@android:color/holo_green_dark"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+
+    <View
+        android:elevation="20dp"
+        android:background="@android:color/holo_purple"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+
+    <View
+        android:elevation="20dp"
+        android:background="@android:color/holo_blue_bright"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+
+    <View
+        android:elevation="20dp"
+        android:background="@android:color/holo_red_dark"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+
+
+</test.com.viewgroupexamples.views.OverLapView>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ViewGroupExamples</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="maps_key">AIzaSyC3oLgE0Lat_PCKgraXPP45l4MhSuFu1IE</string>
+</resources>
